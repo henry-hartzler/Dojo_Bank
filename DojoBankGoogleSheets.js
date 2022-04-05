@@ -1,3 +1,5 @@
+//This is the most updated version as of April 5th, 2022
+
 //These variables activate the selected cell.
 var ss = SpreadsheetApp.getActiveSheet();
 var activeCell = ss.getActiveCell()
